@@ -7,5 +7,6 @@
     <toolWindow group="Debugger messages" />
     <toolWindow group="PHP Debugger" />
     <toolWindow group="Inspection Results" />
+    <toolWindow group="Vcs Messages" />
   </component>
 </application>
