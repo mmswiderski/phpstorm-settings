@@ -2,6 +2,9 @@
   <action id="ActivateNavBar">
     <keyboard-shortcut first-keystroke="shift control P" />
   </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift control Y" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="control W" />
   </action>
