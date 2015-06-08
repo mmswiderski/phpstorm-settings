@@ -1,0 +1,74 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateNavBar">
+    <keyboard-shortcut first-keystroke="shift control P" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift control Y" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareJars" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.SetDefault" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.ShowDiff" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditorDuplicate" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollUp" />
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="BACK_QUOTE" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="control TAB" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="TAB" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PhpGeneratePhpDocBlocks">
+    <keyboard-shortcut first-keystroke="control alt D" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift control TAB" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift control W" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="control P" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="control D" />
+  </action>
+  <action id="SendEOF" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="control UP" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="Switcher" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
