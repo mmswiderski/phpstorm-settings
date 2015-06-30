@@ -1,0 +1,20 @@
+<templateSet group="JavaScript">
+  <template name="docready" value="$( document ).ready(function() {&#10;    console.log( &quot;ready!&quot; );&#10;});" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="jon" value="$( &quot;{anchor}&quot; ).on( &quot;{event}&quot;, &quot;{selector}&quot;, function( event ) {&#10;  event.preventDefault();&#10;});" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
