@@ -1,0 +1,7 @@
+<templateSet group="Zen CSS">
+  <template name="td:u" value="text-decoration:underline;" description="text-decoration:underline;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
