@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="094c2ba2-6c5c-4b80-81b4-c218edc56460" name="Dev BPH-STI" url="http://dev.bph">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
