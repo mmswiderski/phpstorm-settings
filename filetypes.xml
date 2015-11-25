@@ -6,6 +6,7 @@
       <mapping pattern="kk" type="PLAIN_TEXT" />
       <mapping pattern="kkk" type="PLAIN_TEXT" />
       <mapping pattern="Files" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping ext="md\" type="PLAIN_TEXT" />
     </extensionMap>
