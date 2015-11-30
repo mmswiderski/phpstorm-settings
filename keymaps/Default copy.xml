@@ -1,13 +1,19 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="EditorHungryBackSpace">
     <keyboard-shortcut first-keystroke="ctrl alt back_space" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
@@ -24,6 +30,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
