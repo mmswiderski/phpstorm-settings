@@ -1,10 +1,13 @@
-<scheme name="Eclectide Monokai Cichy" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+<scheme name="Komputer" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.3" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="ANNOTATIONS_COLOR" value="7979ff" />
+    <option name="ANNOTATIONS_COLOR" value="a6ff00" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
@@ -33,8 +36,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="cc9900" />
-    <option name="SELECTION_BACKGROUND" value="11ff00" />
-    <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="SELECTION_BACKGROUND" value="214283" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="5b5a4e" />
     <option name="WHITESPACES" value="505050" />
   </colors>
@@ -113,12 +116,19 @@
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="74715e" />
+        <option name="FOREGROUND" value="4bff41" />
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a7e22e" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="589df6" />
+        <option name="EFFECT_COLOR" value="589df6" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -384,20 +394,20 @@
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="800f00" />
-        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
+        <option name="BACKGROUND" value="484a4a" />
+        <option name="ERROR_STRIPE_COLOR" value="656e76" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="1540a" />
-        <option name="ERROR_STRIPE_COLOR" value="1d90c" />
+        <option name="BACKGROUND" value="294436" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="5e5c26" />
-        <option name="ERROR_STRIPE_COLOR" value="ffef00" />
+        <option name="BACKGROUND" value="385570" />
+        <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
@@ -449,16 +459,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="a6e22e" />
-      </value>
-    </option>
-    <option name="HTML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="e6db74" />
-      </value>
-    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
@@ -506,7 +506,7 @@
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
-        <option name="FOREGROUND" value="74715e" />
+        <option name="FOREGROUND" value="4ac577" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -553,28 +553,9 @@
         <option name="FOREGROUND" value="fe9720" />
       </value>
     </option>
-    <option name="PHP_CLASS">
-      <value>
-        <option name="FOREGROUND" value="f0ff6f" />
-      </value>
-    </option>
-    <option name="PHP_IDENTIFIER">
+    <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="PHP_INTERFACE">
-      <value>
-        <option name="FOREGROUND" value="a7e22e" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PHP_TAG">
-      <value>
-        <option name="FOREGROUND" value="f92772" />
-        <option name="BACKGROUND" value="272822" />
-        <option name="EFFECT_COLOR" value="ffffff" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
