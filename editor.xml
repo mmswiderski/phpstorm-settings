@@ -5,19 +5,19 @@
   </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="a8c023" />
+      <option name="FOREGROUND" value="fef629" />
       <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="ERROR_STRIPE_COLOR" value="287bde" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="a8c023" />
+      <option name="FOREGROUND" value="fef629" />
       <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="ERROR_STRIPE_COLOR" value="287bde" />
     </pattern>
     <pattern icon="important" useCustomColors="false" case-sensitive="false" pattern="dd(">
-      <option name="FOREGROUND" value="a8c023" />
+      <option name="FOREGROUND" value="fef629" />
       <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="ERROR_STRIPE_COLOR" value="287bde" />
     </pattern>
   </component>
 </application>
