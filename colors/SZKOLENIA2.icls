@@ -282,11 +282,15 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.THIS">
+      <value />
+    </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="839496" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -374,6 +378,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CONSOLE_WHITE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -1774,6 +1779,9 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
+    <option name="SASS_STRING">
+      <value />
+    </option>
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1898,6 +1906,9 @@
         <option name="FOREGROUND" value="268bd2" />
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
+    </option>
+    <option name="TWIG_BACKGROUND">
+      <value />
     </option>
     <option name="TWIG_BRACKETS">
       <value>
