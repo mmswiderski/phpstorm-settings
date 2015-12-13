@@ -1,0 +1,10 @@
+<templateSet group="html/xml">
+  <template name="html" value="&lt;!doctype html&gt;&#10;&lt;html class=&quot;no-js&quot; lang=&quot;&quot;&gt;&#10;    &lt;head&gt;&#10;        &lt;meta charset=&quot;utf-8&quot;&gt;&#10;        &lt;meta http-equiv=&quot;x-ua-compatible&quot; content=&quot;ie=edge&quot;&gt;&#10;        &lt;title&gt;$TITLE$&lt;/title&gt;&#10;        &lt;meta name=&quot;description&quot; content=&quot;$DESCRIPTION$&quot;&gt;&#10;        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;&#10;    &lt;/head&gt;&#10;    &lt;body&gt;&#10;        &lt;p&gt;Hello world! This is HTML5 Boilerplate.&lt;/p&gt;&#10;    &lt;/body&gt;&#10;&lt;/html&gt;" description="Basic HTML Boilerplste" toReformat="true" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
