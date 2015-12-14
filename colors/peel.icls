@@ -3,7 +3,7 @@
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
-  <option name="EDITOR_FONT_NAME" value="InputMonoNarrow" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -367,12 +367,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="d3643b" />
@@ -404,9 +398,6 @@
       <value>
         <option name="FOREGROUND" value="827766" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
@@ -464,9 +455,6 @@
       <value>
         <option name="FOREGROUND" value="94c7b6" />
       </value>
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
@@ -905,9 +893,6 @@
       <value>
         <option name="FOREGROUND" value="908b25" />
       </value>
-    </option>
-    <option name="MACRO_PARAMETER">
-      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
