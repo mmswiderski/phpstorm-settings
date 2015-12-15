@@ -11,6 +11,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt back_space" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>

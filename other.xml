@@ -71,6 +71,10 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/swiderskim/.WebIde100/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/swiderskim/.WebIde100/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+  </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_FIELD" value="true" />
