@@ -1054,6 +1054,11 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7b7b7b" />
+      </value>
+    </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="a5c25c" />
