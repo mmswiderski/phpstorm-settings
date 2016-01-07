@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\cygwin64\bin\env.exe CHERE_INVOKING=1 /bin/bash -l" />
+    <option name="myShellPath" value="cmd" />
   </component>
 </application>
