@@ -1,3 +1,0 @@
-<application>
-  <component name="GerritSettings" Login="swiderskim" Host="http://gitrep.office.local/gerrit" ListAllChanges="true" AutomaticRefresh="true" RefreshTimeout="10" ReviewNotifications="true" PushToGerrit="false" ShowChangeNumberColumn="true" ShowChangeIdColumn="true" />
-</application>
