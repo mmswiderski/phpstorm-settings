@@ -1,8 +1,19 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration />
+    </phpmd_settings>
+  </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration />
+      <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PHPCS;PSR1;PSR2;ProServicePHP;Squiz;Zend" tool_path="C:\xampp\php\phpcs.bat" />
     </phpcs_settings>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="C:/xampp/php/php.exe" id="5b327762-04fb-4fd1-96ce-0042d6335d81" name="PHP form XAMPP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/bin/php" id="2a2bd194-4164-4c5c-82b8-0046da33d3b0" name="PHP 5.5" debugger_id="php.debugger.XDebug" />
+    </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>

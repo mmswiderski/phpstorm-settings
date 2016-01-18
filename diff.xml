@@ -7,6 +7,16 @@
       <entry key="CommitDialog">
         <PlaceSettings />
       </entry>
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
+  <component name="SvnDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="TextDiffSettings">
@@ -22,6 +32,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
+        <PlaceSettings />
+      </entry>
+      <entry key="Merge">
         <PlaceSettings />
       </entry>
     </option>
