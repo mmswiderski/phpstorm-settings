@@ -1,9 +1,0 @@
-<toolSet name="Shells">
-  <tool name="MinTTY" description="MinnTTY Cygwin" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\cygwin64\bin\mintty.exe" />
-      <option name="PARAMETERS" value="-e /bin/xhere /bin/bash.exe '$ProjectFileDir$'" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-</toolSet>
