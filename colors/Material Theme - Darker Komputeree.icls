@@ -374,9 +374,6 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="DBNavigator.TextAttributes.SQL.Chameleon">
-      <value />
-    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="486578" />
