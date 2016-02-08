@@ -20,6 +20,10 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="back_quote" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
