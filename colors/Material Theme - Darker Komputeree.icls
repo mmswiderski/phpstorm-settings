@@ -524,8 +524,9 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="d3423e" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffb868" />
+        <option name="ERROR_STRIPE_COLOR" value="fffdfd" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -568,8 +569,10 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="722c40" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FOREGROUND" value="f7fff6" />
+        <option name="BACKGROUND" value="ff0100" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0c00" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
