@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="cmd" />
+    <option name="myShellPath" value="C:\cygwin64\bin\mintty.exe /usr/bin/zsh -" />
+    <option name="myTabName" value="OhMyCygwin" />
   </component>
 </application>
