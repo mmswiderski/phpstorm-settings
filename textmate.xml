@@ -6,6 +6,10 @@
           <option name="name" value="Ruby" />
           <option name="path" value="$USER_HOME$/Desktop/Dev/ruby.tmbundle" />
         </BundleConfigBean>
+        <BundleConfigBean>
+          <option name="name" value="Ruby" />
+          <option name="path" value="C:/ruby.tmbundle" />
+        </BundleConfigBean>
       </list>
     </option>
     <option name="themesMapping">
@@ -16,6 +20,7 @@
         <entry key="Darcula" value="Mac Classic" />
         <entry key="Default" value="Mac Classic" />
         <entry key="Material Theme - Darker" value="Mac Classic" />
+        <entry key="Material Theme - Darker Komputeree" value="Mac Classic" />
         <entry key="Material Theme - Darker Laptop" value="Mac Classic" />
         <entry key="Material Theme - Default" value="Mac Classic" />
         <entry key="Material Theme - Lighter" value="Mac Classic" />
