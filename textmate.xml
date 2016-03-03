@@ -6,6 +6,10 @@
           <option name="name" value="Ruby" />
           <option name="path" value="$USER_HOME$/Desktop/Dev/ruby.tmbundle" />
         </BundleConfigBean>
+        <BundleConfigBean>
+          <option name="name" value="Ruby" />
+          <option name="path" value="C:/ruby.tmbundle" />
+        </BundleConfigBean>
       </list>
     </option>
     <option name="themesMapping">

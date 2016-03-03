@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.EditFilterCriteria" />
   <action id="DBNavigator.Actions.DataEditor.DuplicateRecord" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
@@ -29,7 +30,9 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="back_quote" second-keystroke="back_quote" />
   </action>
-  <action id="FindInPath" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
