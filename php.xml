@@ -374,7 +374,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="Vagrant Remote PHP 5.3">
-        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="10.0.2.2 54564 22" version="5.3.10-1ubuntu3.21" warning="Xdebug must be loaded by 'zend_extension' instead of 'extension'">
+        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="10.0.2.2 54564 22" version="5.3.10-1ubuntu3.21">
           <additional_php_ini>/etc/php5/cli/conf.d/apc.ini, /etc/php5/cli/conf.d/curl.ini, /etc/php5/cli/conf.d/gd.ini, /etc/php5/cli/conf.d/mysql.ini, /etc/php5/cli/conf.d/mysqli.ini, /etc/php5/cli/conf.d/pdo.ini, /etc/php5/cli/conf.d/pdo_mysql.ini, /etc/php5/cli/conf.d/pdo_pgsql.ini, /etc/php5/cli/conf.d/pdo_sqlite.ini, /etc/php5/cli/conf.d/pgsql.ini, /etc/php5/cli/conf.d/redis.ini, /etc/php5/cli/conf.d/sqlite3.ini, /etc/php5/cli/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
