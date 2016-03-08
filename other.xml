@@ -63,4 +63,19 @@
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_METHOD" value="true" />
   </component>
+  <component name="RecentTaskRepositories">
+    <Mantis shared="false" url="http://xmantis.devfin24.pl:8013">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentFilter" />
+      <option name="currentProject" />
+      <password>dfeadfe7dfcbdfc1dfdfdfc8dfcfdfd2df98df9fdf9adf9b</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>mswiderski</username>
+    </Mantis>
+  </component>
 </application>
