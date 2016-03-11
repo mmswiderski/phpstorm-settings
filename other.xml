@@ -79,4 +79,17 @@
       <username>mswiderski</username>
     </Mantis>
   </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://fintest3/svn-sti-bph/trunk">
+          <value>
+            <set>
+              <option value="C:\Users\swiderskim\Desktop\DEV\bph-current" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
