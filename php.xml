@@ -374,7 +374,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="Vagrant Remote PHP 5.3">
-        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="10.0.2.2 60829 22" version="5.3.10-1ubuntu3.21">
+        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="10.0.2.2 50596 22" version="5.3.10-1ubuntu3.21">
           <additional_php_ini>/etc/php5/cli/conf.d/apc.ini, /etc/php5/cli/conf.d/curl.ini, /etc/php5/cli/conf.d/gd.ini, /etc/php5/cli/conf.d/mysql.ini, /etc/php5/cli/conf.d/mysqli.ini, /etc/php5/cli/conf.d/pdo.ini, /etc/php5/cli/conf.d/pdo_mysql.ini, /etc/php5/cli/conf.d/pdo_pgsql.ini, /etc/php5/cli/conf.d/pdo_sqlite.ini, /etc/php5/cli/conf.d/pgsql.ini, /etc/php5/cli/conf.d/redis.ini, /etc/php5/cli/conf.d/sqlite3.ini, /etc/php5/cli/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
@@ -633,7 +633,7 @@
             <configuration_option name="xdebug.dump_undefined" value="0" />
             <configuration_option name="xdebug.extended_info" value="1" />
             <configuration_option name="xdebug.file_link_format" value="" />
-            <configuration_option name="xdebug.idekey" value="vagrant" />
+            <configuration_option name="xdebug.idekey" value="VAGRANT" />
             <configuration_option name="xdebug.max_nesting_level" value="100" />
             <configuration_option name="xdebug.overload_var_dump" value="1" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
@@ -648,7 +648,7 @@
             <configuration_option name="xdebug.remote_enable" value="1" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
             <configuration_option name="xdebug.remote_host" value="192.168.33.31" />
-            <configuration_option name="xdebug.remote_log" value="/var/log/xdebug/xdebug.log" />
+            <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9000" />
             <configuration_option name="xdebug.scream" value="0" />
