@@ -63,6 +63,7 @@
   <component name="PhpRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_METHOD" value="true" />
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
   </component>
   <component name="RecentTaskRepositories">
     <Mantis shared="false" url="http://xmantis.devfin24.pl:8013">
