@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="9000" builtInServerAvailableExternally="true" />
+  <component name="BuiltInServerOptions" builtInServerPort="9000" />
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
