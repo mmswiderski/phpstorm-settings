@@ -1,6 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="C:/Program Files/Java/jdk1.8.0_77/jre/bin/file:/C:/Users/swiderskim/.PhpStorm2016.1/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="C:/Program Files/Java/jdk1.8.0_77/jre/bin/file:/C:/Users/swiderskim/.PhpStorm2016.1/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$APPLICATION_HOME_DIR$/bin/file:/C:/Users/swiderskim/.PhpStorm2016.1/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/bin/file:/C:/Users/swiderskim/.PhpStorm2016.1/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
   </component>
 </application>
