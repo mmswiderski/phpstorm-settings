@@ -76,6 +76,23 @@
       <username>mswiderski</username>
     </Mantis>
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://fintest3/svn-fin-fundadmin/trunk" />
+        <option value="http://fintest3/svn-fin-fundadmin/branches" />
+        <option value="http://fintest3/svn-fin-fundadmin" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://fintest3/svn-fin-fundadmin" />
+        <option value="http://fintest3/svn-fin-fundadmin/trunk" />
+        <option value="http://fintest3/svn-fin-fundadmin/branches" />
+        <option value="http://fintest3/svn-fin-fundadmin/tags" />
+      </list>
+    </option>
+  </component>
   <component name="SvnBranchMapperManager">
     <option name="myMapping">
       <map>
