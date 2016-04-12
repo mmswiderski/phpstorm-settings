@@ -272,8 +272,8 @@
             <configuration_option name="xdebug.overload_var_dump" value="1" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
-            <configuration_option name="xdebug.profiler_enable" value="1" />
-            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
+            <configuration_option name="xdebug.profiler_enable" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="1" />
             <configuration_option name="xdebug.profiler_output_dir" value="C:\xampp\tmp" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%t-%s" />
             <configuration_option name="xdebug.remote_autostart" value="0" />
@@ -284,7 +284,7 @@
             <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
             <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
-            <configuration_option name="xdebug.remote_port" value="6565" />
+            <configuration_option name="xdebug.remote_port" value="7778" />
             <configuration_option name="xdebug.scream" value="0" />
             <configuration_option name="xdebug.show_exception_trace" value="0" />
             <configuration_option name="xdebug.show_local_vars" value="0" />
