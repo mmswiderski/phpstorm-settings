@@ -53,6 +53,9 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="true" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="C:/Program Files/nodejs/node.exe" version="0.12.1" last-modified="1427157378000" />
   </component>
