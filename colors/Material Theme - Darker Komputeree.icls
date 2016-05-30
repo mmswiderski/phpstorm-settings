@@ -1,8 +1,8 @@
 <scheme name="Material Theme - Darker Komputeree" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.6" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -85,6 +85,9 @@
         <option name="FOREGROUND" value="e4cb8f" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="BASH.HERE_DOC">
+      <value />
     </option>
     <option name="BASH.INTERNAL_COMMAND">
       <value>
