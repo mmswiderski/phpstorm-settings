@@ -1,12 +1,23 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="kol" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping pattern="rake" type="textmate" />
-      <mapping pattern="irbrc" type="textmate" />
+      <mapping pattern="Capfile" type="textmate" />
       <mapping pattern="Hobofile" type="textmate" />
+      <mapping pattern="Puppetfile" type="textmate" />
       <mapping pattern="Rakefile" type="textmate" />
       <mapping pattern="Berksfile.lock" type="textmate" />
       <mapping pattern="Gemfile" type="textmate" />
@@ -15,7 +26,7 @@
       <mapping pattern="cgi" type="textmate" />
       <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="Rantfile" type="textmate" />
-      <mapping pattern="capfile" type="textmate" />
+      <mapping pattern="irbrc" type="textmate" />
       <mapping pattern="Cheffile" type="textmate" />
       <mapping pattern="rb" type="textmate" />
       <mapping pattern="html.erb" type="textmate" />
@@ -29,6 +40,7 @@
       <mapping pattern="rhtml" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Vagrantfile" type="textmate" />
+      <mapping ext="rhtml" type="textmate" />
       <mapping ext="rjs" type="textmate" />
       <mapping ext="gemspec" type="textmate" />
       <mapping ext="rb" type="textmate" />
@@ -39,20 +51,9 @@
       <mapping ext="ru" type="textmate" />
       <mapping ext="html.erb" type="textmate" />
       <mapping ext="erb" type="textmate" />
-      <mapping ext="rhtml" type="textmate" />
       <mapping ext="irbrc" type="textmate" />
       <mapping ext="capfile" type="textmate" />
       <mapping ext="fcgi" type="textmate" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
