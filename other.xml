@@ -73,7 +73,7 @@
     <local-interpreter path="C:/Program Files/nodejs/node.exe" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="0.12.1" last-modified="1427157378000" />
+    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="(Does not exist)" last-modified="1464818353273" />
   </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="true" />

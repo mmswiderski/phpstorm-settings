@@ -24,10 +24,10 @@
       <mapping pattern="ru" type="textmate" />
       <mapping pattern="erb" type="textmate" />
       <mapping pattern="cgi" type="textmate" />
-      <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="Rantfile" type="textmate" />
       <mapping pattern="irbrc" type="textmate" />
       <mapping pattern="Cheffile" type="textmate" />
+      <mapping pattern="rhtml" type="textmate" />
       <mapping pattern="rb" type="textmate" />
       <mapping pattern="html.erb" type="textmate" />
       <mapping pattern="prawn" type="textmate" />
@@ -37,7 +37,7 @@
       <mapping pattern="Appraisals" type="textmate" />
       <mapping pattern="Guardfile" type="textmate" />
       <mapping pattern="rbx" type="textmate" />
-      <mapping pattern="rhtml" type="textmate" />
+      <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Vagrantfile" type="textmate" />
       <mapping ext="rhtml" type="textmate" />
