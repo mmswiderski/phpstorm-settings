@@ -13,6 +13,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="kol" type="PLAIN_TEXT" />
       <mapping pattern=".env.xtest" type="PLAIN_TEXT" />
+      <mapping pattern="hook" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
