@@ -6,7 +6,7 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration />
+      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="phpcs" />
       <phpcs_by_interpreter interpreter_id="ae82bad8-67e4-418a-800c-2cfeff1afbf0" max_messages_per_file="100" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="phpcs" />
     </phpcs_settings>
   </component>
