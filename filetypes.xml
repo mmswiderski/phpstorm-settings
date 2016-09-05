@@ -13,6 +13,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="kol" type="PLAIN_TEXT" />
       <mapping pattern=".env.xtest" type="PLAIN_TEXT" />
+      <mapping pattern="hook" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
@@ -42,6 +43,7 @@
       <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Vagrantfile" type="textmate" />
+      <mapping ext="rbx" type="textmate" />
       <mapping ext="rhtml" type="textmate" />
       <mapping ext="rjs" type="textmate" />
       <mapping ext="gemspec" type="textmate" />
@@ -49,7 +51,6 @@
       <mapping ext="prawn" type="textmate" />
       <mapping ext="cgi" type="textmate" />
       <mapping ext="rake" type="textmate" />
-      <mapping ext="rbx" type="textmate" />
       <mapping ext="ru" type="textmate" />
       <mapping ext="html.erb" type="textmate" />
       <mapping ext="erb" type="textmate" />
