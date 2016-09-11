@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="cmd" />
+    <option name="myShellPath" value="/bin/zsh" />
     <option name="myTabName" value="" />
   </component>
 </application>
