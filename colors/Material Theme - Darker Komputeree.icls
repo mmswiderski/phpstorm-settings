@@ -122,7 +122,8 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="c1211c" />
+        <option name="BACKGROUND" value="8f1616" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -581,7 +582,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="8aa2cd" />
+        <option name="BACKGROUND" value="656565" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
