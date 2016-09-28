@@ -555,8 +555,8 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="4d707a" />
-        <option name="ERROR_STRIPE_COLOR" value="3c598a" />
+        <option name="BACKGROUND" value="4e342e" />
+        <option name="ERROR_STRIPE_COLOR" value="424242" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
