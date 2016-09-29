@@ -11,13 +11,16 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".env.demo" type="PLAIN_TEXT" />
       <mapping pattern="kol" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.xtest" type="PLAIN_TEXT" />
       <mapping pattern="hook" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
-      <mapping pattern="rake" type="textmate" />
       <mapping pattern="Capfile" type="textmate" />
       <mapping pattern="Hobofile" type="textmate" />
       <mapping pattern="Puppetfile" type="textmate" />
@@ -27,6 +30,7 @@
       <mapping pattern="ru" type="textmate" />
       <mapping pattern="erb" type="textmate" />
       <mapping pattern="cgi" type="textmate" />
+      <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="Rantfile" type="textmate" />
       <mapping pattern="irbrc" type="textmate" />
       <mapping pattern="Cheffile" type="textmate" />
@@ -37,13 +41,12 @@
       <mapping pattern="rjs" type="textmate" />
       <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
+      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping pattern="Appraisals" type="textmate" />
       <mapping pattern="Guardfile" type="textmate" />
+      <mapping pattern="rake" type="textmate" />
       <mapping pattern="rbx" type="textmate" />
-      <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
-      <mapping pattern="Vagrantfile" type="textmate" />
-      <mapping ext="rbx" type="textmate" />
       <mapping ext="rhtml" type="textmate" />
       <mapping ext="rjs" type="textmate" />
       <mapping ext="gemspec" type="textmate" />
@@ -51,12 +54,13 @@
       <mapping ext="prawn" type="textmate" />
       <mapping ext="cgi" type="textmate" />
       <mapping ext="rake" type="textmate" />
+      <mapping ext="rbx" type="textmate" />
       <mapping ext="ru" type="textmate" />
       <mapping ext="html.erb" type="textmate" />
       <mapping ext="erb" type="textmate" />
       <mapping ext="irbrc" type="textmate" />
-      <mapping ext="capfile" type="textmate" />
       <mapping ext="fcgi" type="textmate" />
+      <mapping ext="puppetfile" type="textmate" />
     </extensionMap>
   </component>
 </application>

@@ -12,7 +12,8 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
-    <option name="ANNOTATIONS_COLOR" value="8b999f" />
+    <option name="ANNOTATIONS_COLOR" value="f7fff6" />
+    <option name="ANNOTATIONS_MERGED_COLOR" value="8e8e" />
     <option name="BORDER_LINES_COLOR" value="536c75" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="222222" />
@@ -121,7 +122,8 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="801710" />
+        <option name="BACKGROUND" value="8f1616" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -535,26 +537,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="252b39" />
-        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
+        <option name="BACKGROUND" value="3c4759" />
+        <option name="ERROR_STRIPE_COLOR" value="cf8059" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="722c40" />
+        <option name="BACKGROUND" value="a31b36" />
         <option name="ERROR_STRIPE_COLOR" value="656e76" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="1e272c" />
+        <option name="BACKGROUND" value="648f" />
         <option name="ERROR_STRIPE_COLOR" value="447152" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="1e2a30" />
-        <option name="ERROR_STRIPE_COLOR" value="43698d" />
+        <option name="BACKGROUND" value="4e342e" />
+        <option name="ERROR_STRIPE_COLOR" value="424242" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
@@ -580,7 +582,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="7082aa" />
+        <option name="BACKGROUND" value="656565" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
