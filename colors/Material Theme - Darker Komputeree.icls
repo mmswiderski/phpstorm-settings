@@ -18,6 +18,7 @@
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="222222" />
     <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
+    <option name="DBNavigator.TextAttributes.DataEditor.CaretRowBackground" value="546e7a" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="FILESTATUS_ADDED" value="80cbc4" />
     <option name="FILESTATUS_COPIED" value="659d9a" />
@@ -381,6 +382,22 @@
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4646f1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.PlainData">
+      <value>
+        <option name="BACKGROUND" value="1e282e" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.PrimaryKey">
+      <value>
+        <option name="FOREGROUND" value="fffdfd" />
+        <option name="BACKGROUND" value="d1116" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SessionBrowser.ActiveSession">
+      <value>
+        <option name="BACKGROUND" value="1e282e" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
