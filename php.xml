@@ -18,7 +18,7 @@
         <remote_data VAGRANT_FOLDER="$USER_HOME$/Desktop/frontend-vagrant" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="ssh://vagrant@psat.local:22/usr/bin/php" id="293ab7be-ab67-42ce-ad25-2d18ef8ac645" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="psat.local" PORT="22" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="psat.local" PORT="22" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="/usr/bin/php" id="56a1802b-91d0-4ca8-825b-80283ffa9ed3" name="PHP 7" debugger_id="php.debugger.XDebug" />
       <interpreter home="ssh://vagrant@psat.dev.local:22/usr/bin/php" id="a2a11ca9-e97b-4720-a252-d454d420abe5" name="Remote PHP Psat" debugger_id="php.debugger.XDebug">
