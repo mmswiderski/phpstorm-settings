@@ -14,24 +14,9 @@
     </option>
     <option name="themesMapping">
       <map>
-        <entry key="All hallow's eve" value="Mac Classic" />
-        <entry key="Blackboard" value="Mac Classic" />
-        <entry key="Cobalt" value="Mac Classic" />
-        <entry key="Darcula" value="Mac Classic" />
-        <entry key="Default" value="Mac Classic" />
-        <entry key="Material Theme - Darker" value="Mac Classic" />
         <entry key="Material Theme - Darker Komputeree" value="Monokai" />
         <entry key="Material Theme - Darker Laptop" value="Mac Classic" />
         <entry key="Material Theme - Darker Laptopee" value="Monokai" />
-        <entry key="Material Theme - Default" value="Mac Classic" />
-        <entry key="Material Theme - Lighter" value="Mac Classic" />
-        <entry key="Monokai" value="Mac Classic" />
-        <entry key="Railscasts" value="Mac Classic" />
-        <entry key="Solarized Dark" value="Monokai" />
-        <entry key="Solarized Light" value="Mac Classic" />
-        <entry key="Twilight" value="Mac Classic" />
-        <entry key="VibrantInk" value="Mac Classic" />
-        <entry key="WarmNeon" value="Mac Classic" />
         <entry key="_@user_All hallow's eve" value="Mac Classic" />
         <entry key="_@user_Blackboard" value="Mac Classic" />
         <entry key="_@user_Cobalt" value="Mac Classic" />
