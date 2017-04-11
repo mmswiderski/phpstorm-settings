@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Jenkinsfile" type="AspectJ" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
@@ -9,8 +8,8 @@
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="mavenrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
@@ -21,10 +20,10 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.xtest" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping pattern="erb" type="textmate" />
@@ -48,6 +47,7 @@
       <mapping pattern="Hobofile" type="textmate" />
       <mapping pattern="Appraisals" type="textmate" />
       <mapping pattern="html.erb" type="textmate" />
+      <mapping pattern="Jenkinsfile" type="textmate" />
       <mapping pattern="Rakefile" type="textmate" />
       <mapping pattern="Capfile" type="textmate" />
       <mapping pattern="Vagrantfile" type="textmate" />
