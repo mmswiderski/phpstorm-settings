@@ -17,6 +17,7 @@
       <mapping pattern=".env.xtest" type="PLAIN_TEXT" />
       <mapping pattern="hook" type="PLAIN_TEXT" />
       <mapping pattern="mavenrc" type="PLAIN_TEXT" />
+      <mapping pattern="tests" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
