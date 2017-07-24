@@ -6,8 +6,8 @@
       <mapping ext="py" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
-      <mapping ext="yml" type="SnakeYAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
+      <mapping ext="yml" type="YAML_EX" />
       <mapping pattern="Gemfile" type="textmate" />
       <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="prawn" type="textmate" />
