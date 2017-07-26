@@ -9,13 +9,13 @@
       <removed_mapping ext="yml" type="YAML" />
       <mapping ext="yml" type="YAML_EX" />
       <mapping pattern="rake" type="textmate" />
+      <mapping pattern=".vagrantplugins" type="textmate" />
       <mapping pattern="Capfile" type="textmate" />
       <mapping pattern="Hobofile" type="textmate" />
       <mapping pattern="Puppetfile" type="textmate" />
       <mapping pattern="Rakefile" type="textmate" />
       <mapping pattern="Berksfile.lock" type="textmate" />
       <mapping pattern="Gemfile" type="textmate" />
-      <mapping pattern="rb" type="textmate" />
       <mapping pattern="erb" type="textmate" />
       <mapping pattern="Deliverfile" type="textmate" />
       <mapping pattern="cgi" type="textmate" />
@@ -28,7 +28,7 @@
       <mapping pattern="ru" type="textmate" />
       <mapping pattern="Fastfile" type="textmate" />
       <mapping pattern="Cheffile" type="textmate" />
-      <mapping pattern=".vagrantplugins" type="textmate" />
+      <mapping pattern="rb" type="textmate" />
       <mapping pattern="Gymfile" type="textmate" />
       <mapping pattern="prawn" type="textmate" />
       <mapping pattern="rjs" type="textmate" />
