@@ -10,7 +10,7 @@
       <removed_mapping ext="yml" type="YAML" />
       <mapping ext="yml" type="YAML_EX" />
       <mapping pattern="Hobofile" type="textmate" />
-      <mapping pattern="Puppetfile" type="textmate" />
+      <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="Berksfile.lock" type="textmate" />
       <mapping pattern="cgi" type="textmate" />
       <mapping pattern="prawn" type="textmate" />
@@ -25,7 +25,7 @@
       <mapping pattern="Rantfile" type="textmate" />
       <mapping pattern="rjs" type="textmate" />
       <mapping pattern="rb" type="textmate" />
-      <mapping pattern="gemspec" type="textmate" />
+      <mapping pattern="Puppetfile" type="textmate" />
       <mapping pattern="rake" type="textmate" />
       <mapping pattern="Rakefile" type="textmate" />
       <mapping pattern="html.erb" type="textmate" />
