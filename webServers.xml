@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="e1137501-8995-43d2-aaf2-13a33b64a6d8" name="dppa" url="http://ftp.dppaaudit.eu">
+        <fileTransfer host="ftp.dppaaudit.eu" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
