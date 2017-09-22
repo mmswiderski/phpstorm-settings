@@ -17,6 +17,10 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.scss</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
