@@ -11,13 +11,6 @@
       <phpcs_by_interpreter interpreter_id="ae82bad8-67e4-418a-800c-2cfeff1afbf0" max_messages_per_file="100" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="vagrant://C:/Users/swiderskim/Desktop/DEV/frontend-vagrant/usr/bin/php" id="9c2c4499-465e-4f99-bcd3-6c6858e58ea4" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Desktop/DEV/frontend-vagrant" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/ubuntu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7">
