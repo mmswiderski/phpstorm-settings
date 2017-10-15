@@ -1,14 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="frontend_only" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="cli" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
-      <removed_mapping ext="yml" type="YAML" />
-      <mapping ext="yml" type="YAML_EX" />
+      <removed_mapping ext="rb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
