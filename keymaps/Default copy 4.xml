@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy 4" parent="$default">
+  <action id="PhpGeneratePhpDocBlocks">
+    <keyboard-shortcut first-keystroke="ctrl alt 0" />
+  </action>
+</keymap>
