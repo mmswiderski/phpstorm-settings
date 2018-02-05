@@ -9,13 +9,6 @@
       <phpcs_by_interpreter interpreter_id="8b310b10-5a40-4dac-83d4-f89f6f3a39c1" tool_path="phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="vagrant://C:/transfer/DEV/frontend-vagrant/usr/bin/php" id="8b310b10-5a40-4dac-83d4-f89f6f3a39c1" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="C:/transfer/DEV/frontend-vagrant" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/ubuntu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7">
